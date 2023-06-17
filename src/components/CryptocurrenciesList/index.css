@@ -1,0 +1,38 @@
+/* Write your CSS code here */
+.crypto-currencies-container {
+  width: 750px;
+  border: 3px solid #00e7ff;
+  padding-left: 0px;
+}
+.table-top-container {
+  display: flex;
+  background-color: #092e33;
+  height: 60px;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.coin-type-container {
+  display: flex;
+  align-items: center;
+}
+.coin-type {
+  color: #ffffff;
+  font-size: 28px;
+  font-family: 'Roboto';
+}
+.usd {
+  color: #ffffff;
+  font-size: 28px;
+  font-family: 'Roboto';
+  margin-right: 20px;
+  width: 80px;
+}
+.euro {
+  color: #ffffff;
+  font-size: 28px;
+  font-family: 'Roboto';
+  width: 80px;
+}
